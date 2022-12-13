@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PageManager.dir/main.cpp.o CMakeFiles/PageManager.dir/src/replacer/lru_replacer.cpp.o CMakeFiles/PageManager.dir/src/replacer/opt_replacer.cpp.o CMakeFiles/PageManager.dir/src/replacer/fifo_replacer.cpp.o CMakeFiles/PageManager.dir/src/replacer/replacer.cpp.o  -o PageManager 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/define.h
+
+../src/include/lru_replacer.h
+replacer.h
+../src/include/replacer.h
+
+../src/include/replacer.h
+list
+-
+define.h
+-
+unordered_set
+-
+
+/home/rjzhb/Project/PageManager/src/replacer/lru_replacer.cpp
+iostream
+-
+lru_replacer.h
+/home/rjzhb/Project/PageManager/src/replacer/lru_replacer.h
+
